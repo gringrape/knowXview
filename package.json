@@ -1,0 +1,29 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "지식을 조망하기 위한 어플리케이션",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gringrape/knowXview.git"
+  },
+  "keywords": [],
+  "author": "Jin Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gringrape/knowXview/issues"
+  },
+  "homepage": "https://github.com/gringrape/knowXview#readme"
+}
